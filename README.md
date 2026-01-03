@@ -1,34 +1,35 @@
 # spotify-clone-html-css
 📌 Brief One Line Summary
 A responsive Spotify web UI clone built using pure HTML and CSS, replicating the look and feel of Spotify’s desktop interface.
+
 📖 Table of Contents
 
-Overview
+-Overview
 
-Problem Statement
+-Problem Statement
 
-Dataset
+-Dataset
 
-Tools and Technologies
+-Tools and Technologies
 
-Methods
+-Methods
 
-Key Insights
+-Key Insights
 
-Dashboard / Model / Output
+-Dashboard / Model / Output
 
-How to Run this Project?
+-How to Run this Project?
 
-Results & Conclusion
+-Results & Conclusion
 
 
 🧾 Overview
 
-This project is a front-end clone of Spotify’s web player interface created to practice and demonstrate core web development skills. The focus is on layout design, styling, and responsiveness using only HTML and CSS without any JavaScript or backend functionality.
+-This project is a front-end clone of Spotify’s web player interface created to practice and demonstrate core web development skills. The focus is on layout design, styling,  and responsiveness using only HTML and CSS without any JavaScript or backend functionality.
 
 ❓ Problem Statement
 
-To design a visually accurate and responsive Spotify web interface using only HTML and CSS, mimicking the real application’s layout, color scheme, and user experience.
+-To design a visually accurate and responsive Spotify web interface using only HTML and CSS, mimicking the real application’s layout, color scheme, and user experience.
 
 📂 Dataset
 
@@ -37,54 +38,54 @@ This is a static front-end project and does not use any external datasets or API
 
 🛠 Tools and Technologies
 
-HTML5 – Structure of the web pages
+-HTML5 – Structure of the web pages
 
-CSS3 – Styling, layout, and responsiveness
+-CSS3 – Styling, layout, and responsiveness
 
-VS Code – Code editor
+-VS Code – Code editor
 
-Git & GitHub – Version control and project hosting
+-Git & GitHub – Version control and project hosting
 
 ⚙️ Methods
 
-Used semantic HTML for clean and structured markup
+-Used semantic HTML for clean and structured markup
 
-Implemented Flexbox and CSS Grid for layout design
+-Implemented Flexbox and CSS Grid for layout design
 
-Applied custom styling to replicate Spotify’s UI theme
+-Applied custom styling to replicate Spotify’s UI theme
 
-Organized assets (images, icons) for better maintainability
+-Organized assets (images, icons) for better maintainability
 
 🔍 Key Insights
 
-Improved understanding of real-world UI layouts
+-Improved understanding of real-world UI layouts
 
-Hands-on experience with Flexbox and Grid
+-Hands-on experience with Flexbox and Grid
 
-Learned how professional web interfaces structure components
+-Learned how professional web interfaces structure components
 
-Strengthened CSS styling and positioning skills
+-Strengthened CSS styling and positioning skills
 
 📊 Dashboard / Model / Output
 
-Spotify-like sidebar navigation
+-Spotify-like sidebar navigation
 
-Recently played and trending sections
+-Recently played and trending sections
 
-Music player UI with controls
+-Music player UI with controls
 
-Clean and modern dark-theme design
+-Clean and modern dark-theme design
 
 ▶️ How to Run this Project?
 
-Clone the repository
+-Clone the repository
 
-git clone https://github.com/your-username/spotify-clone-html-css.git
+-git clone https://github.com/your-username/spotify-clone-html-css.git
 
 
-Navigate to the project folder
+-Navigate to the project folder
 
-Open index.html in any modern web browser
+-Open index.html in any modern web browser
 
 ✅ Results & Conclusion
 
